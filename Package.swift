@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://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@github.com/SaloApp/yope-shared/releases/download/v0.1.1/Shared.xcframework.tar.gz.zip",
+            url: "https://rudkouski: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@github.com/SaloApp/yope-shared/releases/download/v0.1.1/Shared.xcframework.tar.gz.zip",
             checksum: "45f9c32ef46671de0e15e61c07ab70b0cf1cc6f946af533d82f65df7b2660bb3"
         )
     ]
