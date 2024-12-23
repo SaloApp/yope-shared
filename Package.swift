@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SharedData",
+    name: "Shared",
     platforms: [
         .iOS(.v13),
         .macOS(.v10_15)
@@ -15,9 +15,9 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "SharedData",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/main/20241216_221110/SharedData.xcframework.zip",
-            checksum: "16faf728b7ce41e87cdda428064c08f857bb30bbf860b29e07ecc2debb4cd6d1"
+            name: "Shared",
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/main/20241223_200253/SharedData.xcframework.zip",
+            checksum: "21433982893b706d66f03c4978b49bc6742635edc976b8b219d977fb3cffdf4b"
         )
     ]
 )
