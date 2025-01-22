@@ -9,15 +9,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Shared",
-            targets: ["Shared"]
+            name: "SharedData",
+            targets: ["SharedData"]
         )
     ],
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/main/20250122_152742/SharedData.xcframework.zip",
-            checksum: "9df6d28bba1f995a2e636fad90383ce35c5874d2f8905cc3a9ae3fa86acec503"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/main/20250122_185814/SharedData.xcframework.zip",
+            checksum: "99ee752b8d58cf2b46eff8dbd21e25ca8c27011900c7777e81ff240da5f51f6c"
         )
     ]
 )
