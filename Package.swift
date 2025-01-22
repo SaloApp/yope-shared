@@ -9,8 +9,8 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "SharedData",
-            targets: ["SharedData"]
+            name: "Shared",
+            targets: ["Shared"]
         )
     ],
     targets: [
