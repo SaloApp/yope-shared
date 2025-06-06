@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/add-restore-interval/20250606_121930/SharedData.xcframework.zip",
-            checksum: "caee9ea324f6be881e62b176c58e03ab15684e36158b29503eb5ec90227143de"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/add-restore-interval/20250606_133535/SharedData.xcframework.zip",
+            checksum: "64696f518d9b30660a0e2f3641921739bbc45092dd7b0b20e3e9e385b2088f51"
         )
     ]
 )
