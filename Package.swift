@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/ios-detect-emoji/20250826_124746/SharedData.xcframework.zip",
-            checksum: "4d063921acbccdc6498a4fe2ff86c474c03b64ace7327d1cb4975e05f32af508"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/ios-build-fix/20250902_121709/SharedData.xcframework.zip",
+            checksum: "6f70c3784a7b378c51be526c528c1e9dedaf55b8175a63d9157c439bd00aa8d3"
         )
     ]
 )
