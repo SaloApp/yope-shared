@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/ios-user-media/20251022_124957/SharedData.xcframework.zip",
-            checksum: "cbbbfb5426d7f05abdeb8ff77880b2e8d84ad06adbb292031fdeaf1458a917a1"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/ios-12nov-build/20251112_100737/SharedData.xcframework.zip",
+            checksum: "eeb90b2482277427a78027363cfbb6951ca49436a44a2455afd514d14aa8b9b1"
         )
     ]
 )
