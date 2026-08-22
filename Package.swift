@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/fix/restore-thermal-batch/20260821_213555/SharedData.xcframework.zip",
-            checksum: "710572b2bafad93b8a64ac5f9e9c49c5fdd225073ad170531c78081380d461b7"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/fix/thermal-batch-review-fixes/20260821_233319/SharedData.xcframework.zip",
+            checksum: "efad696c10be96c685c006a684d3a2560a1c936ac6569da37b304f83f6111774"
         )
     ]
 )
