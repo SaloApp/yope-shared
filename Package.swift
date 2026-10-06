@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/feature/ios-drop-compose-from-data/20260930_221834/SharedData.xcframework.zip",
-            checksum: "e9aa26cea83fad81037ff7b8c6fdfc47716ac8db9932d823789cafdbc7a04c03"
+            url: "https://storage.googleapis.com/saloapp-ios-frameworks/frameworks/main/20261006_125231/SharedData.xcframework.zip",
+            checksum: "a44c309eb7ac2d0c6210cf2986ae738e56c15ed562033f2f5875686413719039"
         )
     ]
 )
